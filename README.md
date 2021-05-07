@@ -36,7 +36,7 @@ cd build
 cmake ..
 make
 sudo ./yolov4csp -s                          // serialize model to plan file i.e. 'yolov4csp.engine'
-sudo ./yolov4csp -d ../../yolov3-spp/samples // deserialize plan file and run inference, the images in samples will be processed.
+sudo ./yolov4csp -d ../samples               // deserialize plan file and run inference, the images in samples will be processed.
 ```
 
 3. check the images generated, as follows. _zidane.jpg and _bus.jpg
