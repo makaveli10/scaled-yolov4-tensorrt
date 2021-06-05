@@ -48,3 +48,4 @@ sudo ./yolov4csp -d ../samples               // deserialize plan file and run in
 <img src= https://user-images.githubusercontent.com/39617050/117172880-dbb52880-ade9-11eb-839a-0814fd46198e.jpg>
 </p>
 
+Thanks to [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) for all the resources.
